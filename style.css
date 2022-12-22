@@ -366,47 +366,47 @@ nav.show div.icon-close {
   color: var(--base-color);
 }
 
-/* Testimonials ----------------------------------------------------------------------*/
-#testimonials {
+/* Experiências ----------------------------------------------------------------------*/
+#experiences {
   background: white;
 }
 
-#testimonials .container {
+#experiences .container {
   margin-left: 0;
   margin-right: 0;
 }
 
-#testimonials header {
+#experiences header {
   margin-left: 1.5rem;
   margin-right: 1.5rem;
   margin-bottom: 0;
 }
 
-#testimonials .container {
+#experiences .container {
   margin-left: 0;
   margin-right: 0;
 }
 
-#testimonials header {
+#experiences header {
   margin-bottom: 0;
   margin-left: 1.5;
   margin-right: 1.5;
 }
 
-#testimonials blockquote {
+#experiences blockquote {
   padding: 2rem;
   box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
   border-radius: 0.25rem;
 }
 
-#testimonials blockquote p {
+#experiences blockquote p {
   position: relative;
   text-indent: 1.875rem;
   margin-bottom: 1.5rem;
   color: var(--title-color);
 }
 
-#testimonials blockquote p span {
+#experiences blockquote p span {
   font: 700 2.5rem serif;
   position: absolute;
   top: -0.375rem;
@@ -414,13 +414,13 @@ nav.show div.icon-close {
   color: var(--base-color);
 }
 
-#testimonials cite {
+#experiences cite {
   display: flex;
   align-items: center;
   font-style: normal;
 }
 
-#testimonials cite img {
+#experiences cite img {
   width: 2rem;
   height: 2rem;
   object-fit: cover;
