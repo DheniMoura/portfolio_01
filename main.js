@@ -31,7 +31,7 @@ function changeHeaderWhenScroll() {
   }
 }
 
-/* Testimonials carousel slider swiper */
+/* experiences carousel slider swiper */
 const swiper = new Swiper('.swiper-container', {
   slidesPerView: 1,
   pagination: {
@@ -58,8 +58,8 @@ const scrollReveal = ScrollReveal({
 scrollReveal.reveal(
   `#home .image, #home .text,
   #about .image, #about .text,
-  #services header, #services .card,
-  #testimonials header, #testimonials .testimonials
+  #education header, #education .card,
+  #experiences header, #experiences .texperiences
   #contact .text, #contact .links,
   footer .brand, footer .social
   `,
