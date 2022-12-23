@@ -343,7 +343,7 @@ nav.show div.icon-close {
   margin-right: 1.5rem;
 }
 
-/*====  SERVICES ============================ */
+/*====  EDUCATION  ============================ */
 .cards.grid {
   gap: 1.5rem;
 }
@@ -463,6 +463,10 @@ nav.show div.icon-close {
   color: var(--base-color);
 }
 
+#contact ul li a {
+  color: var(--base-color);
+}
+
 /*====  FOOTER ============================ */
 footer {
   background: var(--base-color);
@@ -487,24 +491,14 @@ footer i {
   color: var(--text-color-light);
 }
 
-footer .social {
-  grid-auto-flow: column;
-  width: fit-content;
-}
-
-footer .social a {
-  transition: 0.3s;
-  display: inline-block;
-}
-
-footer .social a:hover {
-  transform: translateY(-8px);
+footer p a {
+  color: var(--text-color-light);
 }
 
 /* Back to top */
 .back-to-top {
   background: var(--base-color);
-  color: var(--text-color-light);
+  color: var(--text-color);
 
   position: fixed;
   right: 1rem;
