@@ -314,6 +314,10 @@ nav.show div.icon-close {
   margin: 0;
 }
 
+#about .container p{
+  margin-bottom: 0.75rem;
+}
+
 #about .image {
   position: relative;
 }
