@@ -679,6 +679,13 @@ footer p a {
   }
 }
 /* large devices: 1023 > */
+@media (min-width: 1023px) {
+  :root {
+    --title-font-size: 2.25rem;
+    --subtitle-font-size: 1.125rem;
+  }
+}
+
 /* large devices: 992 > */
 @media (min-width: 992px) {
   :root {
@@ -687,3 +694,9 @@ footer p a {
   }
 }
 /* medium devices: 767 > */
+@media (min-width: 767px) {
+  :root {
+    --title-font-size: 2.25rem;
+    --subtitle-font-size: 1.125rem;
+  }
+}
