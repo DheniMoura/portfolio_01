@@ -469,6 +469,11 @@ nav.show div.icon-close {
   margin-bottom: 1rem;
 }
 
+.card-projects a {
+  /* padding-bottom: 1rem; */
+
+}
+
 /*====  CONTACT ============================ */
 #contact .grid {
   gap: 4rem;
